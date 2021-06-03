@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Warning to traytors, or, A brief account of the appredenaing [sic], tryal, condemnation, behaviour and execution of William Disinie, late esq. who was executed for high-treason on Monday the 25th day of June, 1685 at Kenington Common in the county of Surry.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21269</idno><idno type="EEBO-CITATION">11199977_46705</idno>
+  <idno type="VID">46705</idno>
+  <idno type="EEBO-PROQUEST">2264177809</idno>
+  
+            <idno type="STC">Wing D1672D</idno>
+            <idno type="STC">ESTC R29736</idno>
+            <idno type="OCLC">11199977</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46705)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1345:16 or 1439:58)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Warning to traytors, or, A brief account of the appredenaing [sic], tryal, condemnation, behaviour and execution of William Disinie, late esq. who was executed for high-treason on Monday the 25th day of June, 1685 at Kenington Common in the county of Surry.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Wing number W942A cancelled in Wing (2nd ed.).</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Disney, William, d. 1685.</term>
+               <term type="topical_term">Trials (Treason) --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:46705:1"/>
+            <pb n="1" facs="tcp:46705:1"/>
+            <head>A Warning to Traytors, Or a Brief ACCOUNT Of the Appredenaing, Tryal, Condemnation, Behaviour and Execution of William Disinie late Esq; Who was Executed for High-Treason On <hi>Monday the</hi> 25.th day of <hi>June,</hi> 1685. AT Kenington Common In the County of <hi>Surry.</hi>
+            </head>
+            <p>STrange it is, that this Nation whose Natives for Huma<g ref="char:EOLhyphen"/>nity and good Nature have been accounted of, through<g ref="char:EOLhyphen"/>out the known World, should so much degenerate in these latter Ages, as to produce a sort of Men, who are so wedded to obstinacy and grounded in Rebellious Principles, that no favours can oblige them to peaceable Obedience and honest Loyalty, nor fear of Punishment deter them from of<g ref="char:EOLhyphen"/>fending against the known Laws, much less induce them to a hearty compliance with their Duty and Allegiance to their Sovereign, though they are not in the least ignorant that the Laws of God and Man, most strictly enjoyn it; the one un<g ref="char:EOLhyphen"/>der the Penalty of Eternal, and the other under that of Tem<g ref="char:EOLhyphen"/>poral
+<pb n="2" facs="tcp:46705:2"/>or Corporal Punishment, nay, so restle<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s &amp; Implacable is this <hi>Fanatick</hi> Generation, of Men that pretend to so much Zeal and Fervency; shrouding their Diabolical Designs and Trea<g ref="char:EOLhyphen"/>sonable Enterprizes under the Veil of Hypocrisie, that rather than their Malice to involve us in Blood and Mischief, shall be unimployed, they will choose to Act not only contrary to the Rules of Reason, but frequently contrary to the Dictates of their own Consciences, doing those things which they are Conscious; they ought to flie and avoid, as may be obser<g ref="char:EOLhyphen"/>ved in the Practice, or wicked undertaking of Mr. <hi>Disinie</hi> whose Rashness has brought him shame and disgrace, in the following Manner.</p>
+            <p>This Person being well descended of Loyal Parentage, so far degenerated that contrary to the known Laws in which he was Practitioner, and in favour of the Rebels now in open Rebellion; He Printed, and caused to be Printed, a Dan<g ref="char:EOLhyphen"/>gerous, Malicious, and Treasonable Libel, <hi>&amp;c.</hi> To inflame, stir up, and incite his Majesties Subjects to Treason and Re<g ref="char:EOLhyphen"/>bellion; to bring which to pass he had gotten him a Press and Printing materials, at his House on <hi>Lambeth</hi> Side; but as no Plots and Devices have hitherto been capable of prosper<g ref="char:EOLhyphen"/>ing against our Gracious Sovereign, so this piece of wicked<g ref="char:EOLhyphen"/>ness was discovered e're it could be brought to the perfection intended, and immediately a Warrant delivered to one of his Majesties Messengers to apprehend the Partys and Papers, who accompanied with some Files of Musqueteirs, first beset the House, and then breaking open the Doors and runing up Stairs they sound Mr. <hi>Disinie</hi> in his Shirt, who at their ap<g ref="char:EOLhyphen"/>proach cried out Thieves and Murther, but being secured, they found in his Breeches that (lay upon a Chair) a pair of Pocket Pistols and a Dagger with the Sheath fastened to the in<g ref="char:EOLhyphen"/>side of the Pocket, and proceeding farther discovered some of the Papers, as likewise the Printing materials which were placed in a Celler that had formerly been a K tchen; when taking him and one who went for his Female Servant (but has since appeared to be his Nightly Companion) they were after due Examination and proof of the Fact Committed, and on <hi>Monday</hi> the 21th. of <hi>June,</hi> 1685. A special Commission be<g ref="char:EOLhyphen"/>ing issued out for that purpose, they were Arraigned at the <hi>Marshalsea</hi> in <hi>Southwark</hi> for <hi>High-Treason,</hi> and pleading not Guilty, <hi>Disinie</hi> desired Council but was denyed as not allowa<g ref="char:EOLhyphen"/>ble
+<pb n="3" facs="tcp:46705:2"/>in such Capital Cases, yet upon farther Request he had leave to make use of what Books he thought fit, to prepare him for his Defence, and time given him till the 25th. of <hi>June,</hi> 1685. When being brought to the Barr and the In<g ref="char:EOLhyphen"/>dictment Read and opened, it appeared against him upon Oath, that he had actually Printed those Treasonable Libels, and publickly read one of them at the entertainment of some persons that came to visit him; as likewise his Intention to disperse them; together with the manner of Discovery, and finding the Libels, and printing materials, and other Circum<g ref="char:EOLhyphen"/>stances so plainly Evident, that he could make little or no de<g ref="char:EOLhyphen"/>fence, whereupon, after a full hearing, wherein he had all the reasonable liberty imaginable to make his Objections the Jury found him Guilty of <hi>High-Treason,</hi> and he thereupon recei<g ref="char:EOLhyphen"/>ved Sentence, <hi>to be drawn upon a Hurdle to the place of Execu<g ref="char:EOLhyphen"/>tion, there to be hang'd by the Neck not till dead, but being Cut down alive, his privy members to be Cut off, his B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wels taken out and Burnt before his Face, his Head to be severed from his Body, and his Body to be divided into four quarters, and to be disposed of at his Majesties pleasure.</hi>
+            </p>
+            <p>After, Sentence he seemed much dejected, as being consci<g ref="char:EOLhyphen"/>ous of so great a Crime, by which so much mischief might have happened had not a timely Discovery prevented it; and percieving the Day of Execution (the reward of his Trea<g ref="char:EOLhyphen"/>sons) approached, a concluding with himself that there could not be reasonably any mercy expected for so notorious a wickedness, he began seriously to bethink him of his past sins and of a future State (appearing to such as attended him) to be much concerned that he had pulled such miserie and dis<g ref="char:EOLhyphen"/>grace upon himself, when he might have lived peaceably and happily had he followed his business, and much at that rate continued he till the Day, being the 29th. of <hi>June,</hi> &amp; having taken leave of such Friends as came to pay him their last visit in the <hi>Marshalsea</hi> Prison, was put into a <hi>Sledge</hi> brought for that purpose, about Nine in the Morning, and attended with a strong Guard of the Sheriffs men and Constables, was convey<g ref="char:EOLhyphen"/>ed to <hi>Kenington Common</hi> the place appointed for his Execution, appearing all the way much dejected, looking wishfully up<g ref="char:EOLhyphen"/>on the People, and often lifting up his Hands and Eyes towards Heaven, continuing so to do, till he came to the place afore<g ref="char:EOLhyphen"/>said
+<pb n="4" facs="tcp:46705:3"/>where he was to suffer; when being taken out of the <hi>Sledge</hi> and put into a Cart, he prayed to himself a consider<g ref="char:EOLhyphen"/>able time, and was prayed with and exhorted to consider his latter end, seeing there were but a few moments between him and Eternity; which done and the usual Devotion end<g ref="char:EOLhyphen"/>ed (he not in the least denying the Fact for which he suffer<g ref="char:EOLhyphen"/>ed,) The Cart drew away; when having hang'd a consider<g ref="char:EOLhyphen"/>able time he was Cut down and quartered, <hi>&amp;c.</hi> and his Quarters brought to <hi>Newgate,</hi> in Order to their being affixed on divers Gates of the City, <hi>&amp;c.</hi> as a Monument of his Treason.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed, <hi>July</hi> the 2d. 1685</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London;</hi> Printed by <hi>E. Mallet,</hi> 1685.</p>
+            <pb facs="tcp:46705:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
